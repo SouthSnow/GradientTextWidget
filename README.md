@@ -1,0 +1,2 @@
+# gradientTextWidget
+flutter plugin
